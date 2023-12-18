@@ -14,18 +14,23 @@ Refer to: notebooks > yelp_foursquare_EDA.ipynb
 
 
 ### 3. Joining Data
-The resulting CityBikes dataframe and ......... dataframe were joined together and validated. The data was then explored through data visualization to start the process of understanding the relationships
+The resulting CityBikes dataframe and Foursquare dataframe were joined together and validated. The data was then explored through data visualization to start the process of understanding the relationships.
 Refer to: notebooks > joining_data.ipynb
  
 ### 4. Statistical Model
-
+A linear regression model was run asking the question, how much could the number of venues near a given bike stop estimate the percent of bikes being used from the bike stop.
 Refer to: notebooks > model_building.ipynb
 
 ## Results
+Comparing the Yelp API and Foursquare API, 
+
 (fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
 
 ## Challenges 
-(discuss challenges you faced in the project)
+One of my major limitations were the number of API requests I could send. Because of my inexperience with the process, there were many instances were I had to resend requests due to improper formatting, accidental requests or even forgetting to save the results to a .json file and restarting the kernal. This ultimately led to me being unable to request restaurant data and I had to suffice with my 'museum' data. However, I was still able to run regression models with the data, analyze the results and question project questions such as ranking based on ratings. I also found difficulty in normalizing the data. Again, due to inexperience, I spend a large amount of time funbling around with the nested lists and dictionaries trying to make sense of how they fit within each other (and consequently, how to format my dataframe normalization codes).
 
 ## Future Goals
-(what would you do if you had more time?)
+This project's scope was such an interesting view into how large scale projects could be pursued. The limitation of API request (even without my lack of experience) would potentially be quickly used up if this was a large scale project to track a company's success and future business decisions. In the context of my Barcelona based company 'Bicing', a future goal and direct application of this project would be to gather the API requests of CityBikes throughout the hours of the day (say, once per hour) over a span of days or even weeks. Yelp and Foursquare API requests can be made for all commercial destinations and be combined to give the most complete picture of all available venues. With deleting duplicates in venue per bike stop and congregating the hourly CityBikes data, Bicing would have the opportunity to answer many other pressing questions such as:
+Do we regularily run out of bikes at a certain location or region and how much should we expand these areas?
+Where are the most visited areas and should we look into better advertisment in that area?
+How does the cycling mode of transportation compare with other common types of transportation like vehicles or public transit? How may we aim towards conversions - especially for shorter commutes that bikes could successfully and easily integrate into?
