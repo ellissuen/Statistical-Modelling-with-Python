@@ -22,9 +22,9 @@ A linear regression model was run asking the question, how much could the number
 Refer to: notebooks > model_building.ipynb
 
 ## Results
-Comparing the Yelp API and Foursquare API, 
+Comparing the Yelp API and Foursquare API, the Yelp API returned results with a much more in depth amount of information than that of the Foursquare API. However, while using the Foursquare API and using 'query=museums', it actually returned a more robust and varied quantity / quality of venues. Since my research question is based more about the presence of these venues, I ultimately decided to use Foursquare since the extra information from Yelp would not be useful. 
 
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+When running a single linear regression model between the variables of 'venues_nearby' and '% used' (bikes), we were able to conclude that there was a statistic significant result and that the null hypothesis was rejected. With a r-squqred value of 0.571, 57.1% of the variation could be explain by this model. The percent of bikes being used at a given bike stop had a linear positive relationship to the independant variable of number of venues nearby (radius of 200 meters) [coefficient of 0.1684]. This result was statistically significant with a p-value of 0.000 (much less than the accepted p<0.05).
 
 ## Challenges 
 One of my major limitations were the number of API requests I could send. Because of my inexperience with the process, there were many instances were I had to resend requests due to improper formatting, accidental requests or even forgetting to save the results to a .json file and restarting the kernal. This ultimately led to me being unable to request restaurant data and I had to suffice with my 'museum' data. However, I was still able to run regression models with the data, analyze the results and question project questions such as ranking based on ratings. I also found difficulty in normalizing the data. Again, due to inexperience, I spend a large amount of time funbling around with the nested lists and dictionaries trying to make sense of how they fit within each other (and consequently, how to format my dataframe normalization codes).
