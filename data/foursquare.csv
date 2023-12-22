@@ -1,0 +1,634 @@
+,Bike Stop #,name,distance,venue_type
+0,1,,,[]
+1,2,,,[]
+2,3,,,[]
+3,4,Montjuic (Barcelona),181,Art Museum
+4,5,,,[]
+5,6,,,[]
+6,7,,,[]
+7,8,,,[]
+8,9,,,[]
+9,10,,,[]
+10,11,,,[]
+11,12,,,[]
+12,13,,,[]
+13,14,,,[]
+14,15,,,[]
+15,16,Museo de Tenis,94,Museum
+16,17,,,[]
+17,18,,,[]
+18,19,,,[]
+19,20,,,[]
+20,21,,,[]
+21,22,,,[]
+22,23,,,[]
+23,24,,,[]
+24,25,,,[]
+25,26,,,[]
+26,27,,,[]
+27,28,,,[]
+28,29,,,[]
+29,30,,,[]
+30,31,Museu Casa Verdaguer,166,Museum
+31,32,,,[]
+32,33,,,[]
+33,34,,,[]
+34,35,,,[]
+35,36,,,[]
+36,37,Cementeri de Poble Nou,102,Art Museum
+37,38,Coface Sucursal en España,105,Museum
+38,39,Nexus Recursos Humanos,119,Museum
+39,40,Big Fun Museum,114,Museum
+40,40,Erotic Museum (Museu de l'Eròtica),118,Erotic Museum
+41,40,Les Rambles,87,Art Museum
+42,40,Mosaico Pla de l'Os,131,Museum
+43,40,Erotic Museum,128,Art Museum
+44,40,Institut de Cultura de Barcelona,186,Museum
+45,40,Palau de la Virreina,181,Art Gallery
+46,41,Antic Car Club de Catalunya,185,Museum
+47,42,,,[]
+48,43,,,[]
+49,44,,,[]
+50,45,,,[]
+51,46,,,[]
+52,47,,,[]
+53,48,Museu del Temple Expiatori de la Sagrada Familia,190,Museum
+54,49,,,[]
+55,50,,,[]
+56,51,,,[]
+57,52,,,[]
+58,53,,,[]
+59,54,,,[]
+60,55,,,[]
+61,56,,,[]
+62,57,,,[]
+63,58,Museo Dalí Escultor. Edificio Real Círculo Artístico,57,Museum
+64,58,The Gaudí Exhibition Center,164,Art Museum
+65,58,Via Sepulcral Romana,171,Monument
+66,58,Museu Diocesà de Barcelona,169,History Museum
+67,58,Museo Diocesano de Barcelona,179,History Museum
+68,58,Reial Cercle Artístic de Barcelona,66,Concert Hall
+69,59,,,[]
+70,60,Museu Blau,168,History Museum
+71,61,Joan Miró Tour - Cementiri Montjuic,41,Museum
+72,62,,,[]
+73,63,,,[]
+74,64,,,[]
+75,65,,,[]
+76,66,,,[]
+77,67,"Davis Museum, The Davis Lisboa Mini-Museum of Contemporary Art in Barcelona",123,Museum
+78,67,Davis Lisboa,124,Painter
+79,68,Museu de la Música,118,History Museum
+80,68,Museu de Carrosses Fúnebres,156,History Museum
+81,69,,,[]
+82,70,,,[]
+83,71,,,[]
+84,72,,,[]
+85,73,,,[]
+86,74,,,[]
+87,75,Punt d'Ancoratge de Bicicletes Guàrdia Urbana,121,Museum
+88,76,Fremap-mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social,74,Museum
+89,76,Arxiu Joan Maragall,181,Museum
+90,77,,,[]
+91,78,,,[]
+92,79,,,[]
+93,80,,,[]
+94,81,Generalitat de Catalunya,102,History Museum
+95,81,Centre Cultural Caixa Catalunya,161,Museum
+96,81,Palau Robert,99,Art Gallery
+97,81,Casa Ramon Casas,120,Monument
+98,82,,,[]
+99,83,,,[]
+100,84,,,[]
+101,85,,,[]
+102,86,Museu de Zoologia,93,Science Museum
+103,86,Laboratori de Natura,95,Science Museum
+104,87,Teatre Museu el Rei de la Màgia,106,Art Museum
+105,87,Museo Magic World,187,Museum
+106,88,,,[]
+107,89,,,[]
+108,90,,,[]
+109,91,,,[]
+110,92,,,[]
+111,93,,,[]
+112,94,,,[]
+113,95,MUHBA Casa de l'Aigua,106,Museum
+114,96,,,[]
+115,97,Museo Auto-Moto,165,Museum
+116,98,,,[]
+117,99,Les Rambles,56,Art Museum
+118,99,Mosaico Pla de l'Os,104,Museum
+119,99,Big Fun Museum,126,Museum
+120,99,Erotic Museum (Museu de l'Eròtica),134,Erotic Museum
+121,99,Erotic Museum,139,Art Museum
+122,100,,,[]
+123,101,Tienda Infame - Art Shop,115,Museum
+124,102,Palau Macaya,155,Science Museum
+125,103,,,[]
+126,104,,,[]
+127,105,,,[]
+128,106,,,[]
+129,107,,,[]
+130,108,,,[]
+131,109,,,[]
+132,110,,,[]
+133,111,,,[]
+134,112,,,[]
+135,113,,,[]
+136,114,,,[]
+137,115,Museo Magic World,204,Museum
+138,116,,,[]
+139,117,,,[]
+140,118,Fundación Antoni Tàpies,137,Museum
+141,118,Museu del Perfum,128,History Museum
+142,118,Museu del Modernisme Català,165,Art Museum
+143,118,Casa Lleó i Morera,175,Monument
+144,119,Casa Dels Entremesos,165,Museum
+145,120,,,[]
+146,121,,,[]
+147,122,,,[]
+148,123,,,[]
+149,124,,,[]
+150,125,,,[]
+151,126,,,[]
+152,127,Museu Can Framis,118,Art Museum
+153,128,,,[]
+154,129,,,[]
+155,130,,,[]
+156,131,,,[]
+157,132,,,[]
+158,133,,,[]
+159,134,Santería Milagrosa,141,Art Museum
+160,135,,,[]
+161,136,,,[]
+162,137,,,[]
+163,138,,,[]
+164,139,,,[]
+165,140,,,[]
+166,141,,,[]
+167,142,Museu de la Xocolata,7,Art Museum
+168,142,Convent de Sant Agustí,93,Museum
+169,142,Picasso Museum (Museu Picasso),195,Museum
+170,142,Laboratori de Natura,161,Science Museum
+171,142,Fundació Joan Brossa,194,Art Museum
+172,142,Museo de Ciencias Naturales,195,History Museum
+173,142,Museu Martorell,198,Science Museum
+174,142,Museu de Zoologia,198,Science Museum
+175,142,Gas Natural Fenosa,172,Art Museum
+176,142,Museu de Ciencies Naturals,198,Museum
+177,143,,,[]
+178,144,,,[]
+179,145,,,[]
+180,146,,,[]
+181,147,,,[]
+182,148,,,[]
+183,149,Museu d'Història de Catalunya,61,Museum
+184,150,,,[]
+185,151,,,[]
+186,152,,,[]
+187,153,Museu de les Il·lusions,161,Museum
+188,153,MUHBA Casa de l'Aigua,149,Museum
+189,154,,,[]
+190,155,Armeria Ravell,29,Museum
+191,156,Museu de la Música,189,History Museum
+192,157,,,[]
+193,158,,,[]
+194,159,Museu Basilica de la Sagrada Familia,141,Museum
+195,159,Museu del Temple Expiatori de la Sagrada Familia,190,Museum
+196,160,,,[]
+197,161,,,[]
+198,162,,,[]
+199,163,,,[]
+200,164,,,[]
+201,165,,,[]
+202,166,,,[]
+203,167,Muhba Oliva Artés,138,History Museum
+204,168,,,[]
+205,169,Casa Terrades,139,Monument
+206,170,,,[]
+207,171,,,[]
+208,172,MUHBA Santa Caterina,74,Museum
+209,172,Suau,170,Art Museum
+210,173,,,[]
+211,174,,,[]
+212,175,Museo Adidas & Messi,137,Museum
+213,175,Museu del Modernisme Català,176,Art Museum
+214,175,Museu del Perfum,168,History Museum
+215,175,Casa Lleó i Morera,179,Monument
+216,176,,,[]
+217,177,,,[]
+218,178,Capella del Santissim Sacrament,163,Museum
+219,178,MUHBA Santa Caterina,137,Museum
+220,178,Real Academia de Bellas Artés de San Jorge,192,Art Museum
+221,178,Suau,165,Art Museum
+222,179,La Fábrica del Sol,165,Museum
+223,179,Gas Natural Fenosa,126,Art Museum
+224,180,,,[]
+225,181,,,[]
+226,182,,,[]
+227,183,,,[]
+228,184,Museu de la Farmàcia Catalana,149,Science Museum
+229,185,,,[]
+230,186,Museu d'Història de Barcelona - Centre d'Interpretació Històrica del Refugi 307,29,Museum
+231,186,Refugi 307,48,Monument
+232,187,,,[]
+233,188,Museo de Cera de Barcelona - MUCESA,41,Art Museum
+234,188,Wax museum,44,Art Museum
+235,188,Museo Marítimo de Barcelona,173,Art Museum
+236,188,Columbus Monument,172,Art Museum
+237,188,Arts Santa Mònica,61,Art Gallery
+238,188,Galería Ferrán Cano,911,Art Gallery
+239,189,,,[]
+240,190,Guides & Culture,192,Museum
+241,191,,,[]
+242,192,,,[]
+243,193,Museu Etnogràfic Andino - Amazònic,165,History Museum
+244,194,,,[]
+245,195,,,[]
+246,196,Museu d'Història de Catalunya,203,Museum
+247,197,,,[]
+248,198,,,[]
+249,199,,,[]
+250,200,,,[]
+251,201,The Gaudí Exhibition Center,180,Art Museum
+252,201,Museo Dalí Escultor. Edificio Real Círculo Artístico,88,Museum
+253,201,Via Sepulcral Romana,190,Monument
+254,201,Museu Diocesà de Barcelona,183,History Museum
+255,201,Museo Diocesano de Barcelona,193,History Museum
+256,201,Reial Cercle Artístic de Barcelona,98,Concert Hall
+257,202,,,[]
+258,203,,,[]
+259,204,,,[]
+260,205,Museu Tèxtil i D'Indumentària,178,History Museum
+261,206,Fundacio Privada Arqueologica Jordi Clos,144,History Museum
+262,206,Museo Egipcio de Barcelona,170,History Museum
+263,207,,,[]
+264,208,,,[]
+265,209,Fundacio Museu D'historia de la Medicina de Catalunya,152,Museum
+266,209,Casa Ramon Casas,190,Monument
+267,210,,,[]
+268,211,Fundacio Durancamps-Casas,146,Museum
+269,211,Palau Robert,187,Art Gallery
+270,212,Guides & Culture,114,Museum
+271,213,,,[]
+272,214,Museo Clar,133,Museum
+273,215,,,[]
+274,216,,,[]
+275,217,,,[]
+276,218,MUHBA Casa de l'Aigua,193,Museum
+277,219,,,[]
+278,220,,,[]
+279,221,,,[]
+280,222,,,[]
+281,223,,,[]
+282,224,,,[]
+283,225,,,[]
+284,226,Museu del Barça,155,Museum
+285,226,Gas Natural Fenosa,135,Art Museum
+286,226,Biblioteca de Catalunya - Museu del Llibre Frederic Marès,185,Museum
+287,226,La Capella,206,Arts and Entertainment
+288,227,,,[]
+289,228,,,[]
+290,229,,,[]
+291,230,,,[]
+292,231,,,[]
+293,232,,,[]
+294,233,,,[]
+295,234,,,[]
+296,235,,,[]
+297,236,,,[]
+298,237,,,[]
+299,238,,,[]
+300,239,Museo Marítimo de Barcelona,118,Art Museum
+301,239,Restaurante del Museo Marítimo,161,Museum
+302,239,Arts Santa Mònica,120,Art Gallery
+303,240,Montjuic (Barcelona),169,Art Museum
+304,241,,,[]
+305,242,,,[]
+306,243,,,[]
+307,244,Centre Cultural Caixa Catalunya,52,Museum
+308,244,Generalitat de Catalunya,202,History Museum
+309,244,Casa Ramon Casas,41,Monument
+310,244,Palau Robert,211,Art Gallery
+311,245,,,[]
+312,246,Museu i Centre d'Estudis de l'Esport Doctor Melcior Colet,94,Museum
+313,247,,,[]
+314,248,,,[]
+315,249,Museo Magic World,99,Museum
+316,250,,,[]
+317,251,Institut de Cultura de Barcelona,16,Museum
+318,251,Erotic Museum (Museu de l'Eròtica),87,Erotic Museum
+319,251,Big Fun Museum,97,Museum
+320,251,Erotic Museum,88,Art Museum
+321,251,Via Sepulcral Romana,195,Monument
+322,251,Museu de les Il·lusions,160,Museum
+323,251,Palau de la Virreina,19,Art Gallery
+324,252,,,[]
+325,253,,,[]
+326,254,,,[]
+327,255,,,[]
+328,256,,,[]
+329,257,,,[]
+330,258,,,[]
+331,259,Casa Dels Entremesos,74,Museum
+332,259,Museu Frederic Marès,134,Museum
+333,259,Museu d'Història de Barcelona,175,History Museum
+334,259,The Gaudí Exhibition Center,165,Art Museum
+335,259,Museu Diocesà de Barcelona,152,History Museum
+336,259,Museo Diocesano de Barcelona,148,History Museum
+337,259,Botiga el Rey de la Magia - Museu de la Màgia,180,Museum
+338,260,,,[]
+339,261,Museu Africà Daniel Comboni,116,Museum
+340,262,,,[]
+341,263,Io planetaris,189,Planetarium
+342,264,Museo de Cera de Barcelona - MUCESA,148,Art Museum
+343,264,Columbus Monument,128,Art Museum
+344,264,Wax museum,185,Art Museum
+345,264,Galería Ferrán Cano,1095,Art Gallery
+346,265,,,[]
+347,266,,,[]
+348,267,,,[]
+349,268,Montjuic (Barcelona),194,Art Museum
+350,269,,,[]
+351,270,Santería Milagrosa,104,Art Museum
+352,271,,,[]
+353,272,,,[]
+354,273,,,[]
+355,274,,,[]
+356,275,,,[]
+357,276,,,[]
+358,277,,,[]
+359,278,,,[]
+360,279,,,[]
+361,280,,,[]
+362,281,,,[]
+363,282,,,[]
+364,283,,,[]
+365,284,Museu del Clavegueram,149,History Museum
+366,285,,,[]
+367,286,,,[]
+368,287,,,[]
+369,288,,,[]
+370,289,,,[]
+371,290,Espai Bombers Parc de la Prevenció,115,Museum
+372,290,Punt d'Ancoratge de Bicicletes Guàrdia Urbana,85,Museum
+373,291,,,[]
+374,292,,,[]
+375,293,MUHBA Santa Caterina,60,Museum
+376,293,Suau,159,Art Museum
+377,294,,,[]
+378,295,,,[]
+379,296,,,[]
+380,297,,,[]
+381,298,Museo de Artes y Tradiciones Populares,136,Museum
+382,299,Museu del Temple Expiatori de la Sagrada Familia,197,Museum
+383,300,,,[]
+384,301,Gerard Ribó Tantric Master,197,Erotic Museum
+385,302,Gerard Ribó Tantric Master,198,Erotic Museum
+386,303,,,[]
+387,304,,,[]
+388,305,,,[]
+389,306,,,[]
+390,307,,,[]
+391,308,,,[]
+392,309,,,[]
+393,310,,,[]
+394,311,,,[]
+395,312,,,[]
+396,313,,,[]
+397,314,,,[]
+398,315,,,[]
+399,316,Museu Africà Daniel Comboni,166,Museum
+400,317,,,[]
+401,318,,,[]
+402,319,,,[]
+403,320,,,[]
+404,321,,,[]
+405,322,,,[]
+406,323,Museo de Cera de Barcelona - MUCESA,146,Art Museum
+407,323,Columbus Monument,115,Art Museum
+408,323,Wax museum,184,Art Museum
+409,323,Galería Ferrán Cano,1093,Art Gallery
+410,324,,,[]
+411,325,,,[]
+412,326,,,[]
+413,327,Museu del Temple Expiatori de la Sagrada Familia,164,Museum
+414,328,,,[]
+415,329,,,[]
+416,330,,,[]
+417,331,,,[]
+418,332,Paseo de Gracia,43,Art Museum
+419,332,Fundacio Privada Arqueologica Jordi Clos,150,History Museum
+420,332,Fundación Antoni Tàpies,180,Museum
+421,332,Museo Egipcio de Barcelona,134,History Museum
+422,333,Barcelona Bus Turístic,82,Art Museum
+423,334,Hemp Museum Gallery,166,Museum
+424,334,Palau Mornau,175,Museum
+425,334,Real Academia de Bellas Artés de San Jorge,185,Art Museum
+426,335,Museo de las Artes Decorativas de Barcelona,154,Art Museum
+427,335,Institut de Cultura de Barcelona,168,Museum
+428,336,,,[]
+429,337,,,[]
+430,338,,,[]
+431,339,,,[]
+432,340,,,[]
+433,341,,,[]
+434,342,Museo Minerales Colegio la Salle Bonanova,186,Science Museum
+435,343,Armeria M. Roca,108,Museum
+436,344,Federacio Catalana de Tennis,781,Museum
+437,345,,,[]
+438,346,,,[]
+439,347,,,[]
+440,348,,,[]
+441,349,,,[]
+442,350,MUHBA a Fabra i Coats,95,History Museum
+443,351,,,[]
+444,352,,,[]
+445,353,Museo Minerales Colegio la Salle Bonanova,46,Science Museum
+446,354,,,[]
+447,355,,,[]
+448,356,,,[]
+449,357,Gas Natural Fenosa,153,Art Museum
+450,358,,,[]
+451,359,,,[]
+452,360,,,[]
+453,361,,,[]
+454,362,,,[]
+455,363,Museu Casa Verdaguer,48,Museum
+456,364,Museo de Cera de Barcelona - MUCESA,119,Art Museum
+457,364,Museo Marítimo de Barcelona,142,Art Museum
+458,364,Wax museum,113,Art Museum
+459,364,Restaurante del Museo Marítimo,192,Museum
+460,364,Arts Santa Mònica,22,Art Gallery
+461,365,,,[]
+462,366,Museo de Cera de Barcelona - MUCESA,157,Art Museum
+463,366,Wax museum,115,Art Museum
+464,366,Galería Ferrán Cano,835,Art Gallery
+465,366,Arts Santa Mònica,159,Art Gallery
+466,367,Espai Alchemika,182,Art Museum
+467,368,,,[]
+468,369,Gerard Ribó Tantric Master,104,Erotic Museum
+469,369,Museo geológico del Seminario de Barcelona,188,Science Museum
+470,370,,,[]
+471,371,Convent de Sant Agustí,169,Museum
+472,371,Gas Natural Fenosa,129,Art Museum
+473,372,,,[]
+474,373,,,[]
+475,374,,,[]
+476,375,Futbol Club Barcelona,195,Museum
+477,376,,,[]
+478,377,,,[]
+479,378,,,[]
+480,379,Museu de la Farmàcia Catalana,109,Science Museum
+481,380,Museu Blau,62,History Museum
+482,381,Teatre Museu el Rei de la Màgia,129,Art Museum
+483,381,Museo Magic World,190,Museum
+484,382,,,[]
+485,383,,,[]
+486,384,,,[]
+487,385,,,[]
+488,386,,,[]
+489,387,,,[]
+490,388,,,[]
+491,389,,,[]
+492,390,,,[]
+493,391,,,[]
+494,392,,,[]
+495,393,,,[]
+496,394,,,[]
+497,395,Museo Adidas & Messi,135,Museum
+498,396,,,[]
+499,397,,,[]
+500,398,,,[]
+501,399,,,[]
+502,400,,,[]
+503,401,,,[]
+504,402,Real Academia de Bellas Artés de San Jorge,86,Art Museum
+505,403,,,[]
+506,404,Museu Frederic Marès,77,Museum
+507,404,The Gaudí Exhibition Center,88,Art Museum
+508,404,Museu Diocesà de Barcelona,75,History Museum
+509,404,Museu d'Història de Barcelona,140,History Museum
+510,404,Museo Diocesano de Barcelona,71,History Museum
+511,404,Casa Dels Entremesos,117,Museum
+512,404,Museo Dalí Escultor. Edificio Real Círculo Artístico,189,Museum
+513,404,Reial Cercle Artístic de Barcelona,189,Concert Hall
+514,405,,,[]
+515,406,,,[]
+516,407,,,[]
+517,408,,,[]
+518,409,,,[]
+519,410,,,[]
+520,411,,,[]
+521,412,,,[]
+522,413,,,[]
+523,414,Museo Marítimo de Barcelona,185,Art Museum
+524,414,Arts Santa Mònica,175,Art Gallery
+525,415,,,[]
+526,416,,,[]
+527,417,Santería Milagrosa,51,Art Museum
+528,418,,,[]
+529,419,,,[]
+530,420,Museo Adidas & Messi,162,Museum
+531,421,Museu de la Música,194,History Museum
+532,422,,,[]
+533,423,Museo geológico del Seminario de Barcelona,63,Science Museum
+534,423,Museu del Modernisme Català,172,Art Museum
+535,424,,,[]
+536,425,Museu d'Art Contemporani de Barcelona,166,Museum
+537,425,Museu del Barça,142,Museum
+538,426,,,[]
+539,427,,,[]
+540,428,,,[]
+541,429,,,[]
+542,430,,,[]
+543,431,,,[]
+544,432,,,[]
+545,433,Museu Can Framis,63,Art Museum
+546,434,,,[]
+547,435,,,[]
+548,436,,,[]
+549,437,,,[]
+550,438,,,[]
+551,439,,,[]
+552,440,,,[]
+553,441,,,[]
+554,442,,,[]
+555,443,,,[]
+556,444,Cementeri de Poble Nou,144,Art Museum
+557,445,,,[]
+558,446,,,[]
+559,447,,,[]
+560,448,,,[]
+561,449,,,[]
+562,450,,,[]
+563,451,,,[]
+564,452,,,[]
+565,453,,,[]
+566,454,,,[]
+567,455,,,[]
+568,456,,,[]
+569,457,,,[]
+570,458,,,[]
+571,459,,,[]
+572,460,,,[]
+573,461,,,[]
+574,462,Design Museum of Barcelona (Museu del Disseny de Barcelona),96,Art Museum
+575,462,Disseny Hub Barcelona,102,Art Museum
+576,462,Museu del Disseny de Barcelona,96,Museum
+577,463,Tienda Infame - Art Shop,196,Museum
+578,464,,,[]
+579,465,,,[]
+580,466,,,[]
+581,467,Pavelló de la República,130,Museum
+582,468,,,[]
+583,469,,,[]
+584,470,,,[]
+585,471,,,[]
+586,472,,,[]
+587,473,,,[]
+588,474,MUHBA Casa de l'Aigua,76,Museum
+589,475,,,[]
+590,476,,,[]
+591,477,,,[]
+592,478,Domus avinyó,72,History Museum
+593,478,Casa Natal Joan Miró,74,Museum
+594,478,Museo de las ideas y los inventos,99,Museum
+595,478,MUHBA Porta de Mar,146,History Museum
+596,478,MUHBA Domus de Sant Honorat,153,History Museum
+597,478,Centre d'Interpretació del Call,178,History Museum
+598,478,Sinagoga Medieval de Barcelona,156,Museum
+599,478,Artevistas,66,Art Gallery
+600,479,Hemp Museum Gallery,174,Museum
+601,479,Palau Mornau,183,Museum
+602,479,Real Academia de Bellas Artés de San Jorge,184,Art Museum
+603,480,Museu de Carrosses Fúnebres,112,History Museum
+604,480,Gas Natural Fenosa,114,Art Museum
+605,481,,,[]
+606,482,Museu del Barça,52,Museum
+607,483,,,[]
+608,484,,,[]
+609,485,,,[]
+610,486,Espai Alchemika,23,Art Museum
+611,487,,,[]
+612,488,,,[]
+613,489,,,[]
+614,490,Museu d'Art Contemporani de Barcelona,39,Museum
+615,490,Centro de Cultura Contemporánea de Barcelona,125,History Museum
+616,491,,,[]
+617,492,,,[]
+618,493,,,[]
+619,494,Nexus Recursos Humanos,197,Museum
+620,495,,,[]
+621,496,,,[]
+622,497,Museu de Zoologia,113,Science Museum
+623,497,Laboratori de Natura,123,Science Museum
+624,498,,,[]
+625,499,Fundacio Museu D'historia de la Medicina de Catalunya,116,Museum
+626,500,,,[]
+627,501,La Fábrica del Sol,190,Museum
+628,502,,,[]
+629,503,,,[]
+630,504,,,[]
+631,505,,,[]
+632,506,,,[]

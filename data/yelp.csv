@@ -1,0 +1,607 @@
+,Bike Stop #,name,distance,location.display_address,venue_type
+0,1,,,,[]
+1,2,,,,[]
+2,3,Palais Guëll,139.71423350370085,"['Carrer De Nou Rambla', '08001 Barcelona', 'Spain']",Castles
+3,3,El Gat de Botero,188.34383486437636,"['Rambla del Raval, s/n', '08001 Barcelona', 'Spain']",Landmarks & Historical Buildings
+4,4,,,,[]
+5,5,,,,[]
+6,6,,,,[]
+7,7,,,,[]
+8,8,,,,[]
+9,9,,,,[]
+10,10,,,,[]
+11,11,,,,[]
+12,12,,,,[]
+13,13,,,,[]
+14,14,,,,[]
+15,15,,,,[]
+16,16,,,,[]
+17,17,,,,[]
+18,18,,,,[]
+19,19,,,,[]
+20,20,,,,[]
+21,21,,,,[]
+22,22,,,,[]
+23,23,,,,[]
+24,24,,,,[]
+25,25,,,,[]
+26,26,,,,[]
+27,27,,,,[]
+28,28,,,,[]
+29,29,,,,[]
+30,30,,,,[]
+31,31,,,,[]
+32,32,Plaça d'Espanya,211.08087205456007,"[""Plaça d'Espanya"", '08015 Barcelona', 'Spain']",Landmarks & Historical Buildings
+33,33,,,,[]
+34,34,,,,[]
+35,35,,,,[]
+36,36,,,,[]
+37,37,,,,[]
+38,38,,,,[]
+39,39,,,,[]
+40,40,Erotic Museum 69,20.451056752257763,"['La Rambla, 69', '08002 Barcelona', 'Spain']",Museums
+41,40,Museu de l'Eròtica de Barcelona,119.48130041100656,"['La Rambla,96', '08002 Barcelona', 'Spain']",Art Galleries
+42,40,La Virreina,185.38782780001725,"['La Rambla, 99', '08002 Barcelona', 'Spain']",Museums
+43,41,,,,[]
+44,42,,,,[]
+45,43,,,,[]
+46,44,,,,[]
+47,45,,,,[]
+48,46,,,,[]
+49,47,,,,[]
+50,48,Basílica de la Sagrada Família,218.23607844982072,"['Carrer de Mallorca, 401', '08013 Barcelona', 'Spain']",Landmarks & Historical Buildings
+51,49,,,,[]
+52,50,,,,[]
+53,51,,,,[]
+54,52,,,,[]
+55,53,,,,[]
+56,54,,,,[]
+57,55,,,,[]
+58,56,,,,[]
+59,57,,,,[]
+60,58,Catedral de Barcelona,220.25706676746898,"['Placita de la Seu, s/n', '08002 Barcelona', 'Spain']",Landmarks & Historical Buildings
+61,58,Museu de L'Erotica,167.97651884703458,"['Carrer de La Rambla, 96', '08002 Barcelona', 'Spain']",Museums
+62,58,Gaudí Exhibition Center,198.511032662488,"['Pla de la Seu, 7', '08002 Barcelona', 'Spain']",Museums
+63,58,Spanish Trails,261.1861188435003,"[""Avinguda del Portal de l'Àngel, 42, 2A"", '08002 Barcelona', 'Spain']",Food Tours
+64,58,Museu Diocesà de Barcelona,193.51671297229862,"['Pla de la Seu, 7', '08002 Barcelona', 'Spain']",Museums
+65,58,Museu Moto,201.7110777495499,"['Carrer de la Palla, 10', '08002 Barcelona', 'Spain']",Museums
+66,58,Museo Marittimo,51.1584631357527,"['Barcelona', 'Spain']",Museums
+67,58,Museu del Calçat,212.3805685192677,"['Plaça de Sant Felip Neri, 5', '08002 Barcelona', 'Spain']",Museums
+68,59,,,,[]
+69,60,Museu Blau - Museu de Ciències Naturals de Barcelona,167.53104122692542,"['Parc del Fòrum', 'Plaça de Leonardo da Vinci, 4-5', '08019 Barcelona', 'Spain']",Museums
+70,61,,,,[]
+71,62,,,,[]
+72,63,,,,[]
+73,64,,,,[]
+74,65,,,,[]
+75,66,,,,[]
+76,67,,,,[]
+77,68,Museo de la Musica,109.94792842152106,"['Carrer de Lepant, 150', '08013 Barcelona', 'Spain']",Museums
+78,69,,,,[]
+79,70,,,,[]
+80,71,,,,[]
+81,72,,,,[]
+82,73,,,,[]
+83,74,,,,[]
+84,75,Museu D'arqueologia de Catalunya Barcelona,255.4463749296277,"['Calle Santa Madrona, 39', '08038 Barcelona', 'Spain']",Museums
+85,76,,,,[]
+86,77,,,,[]
+87,78,,,,[]
+88,79,,,,[]
+89,80,,,,[]
+90,81,La Pedrera - Casa Milà,156.13452509667715,"['Paseo de Gracia, 92', '08008 Barcelona', 'Spain']",Museums
+91,81,Palau Robert,85.46319564475961,"['Passeig de Gràcia, 107', '08008 Barcelona', 'Spain']",Museums
+92,82,,,,[]
+93,83,,,,[]
+94,84,,,,[]
+95,85,,,,[]
+96,86,Museu de la Xocolata,193.5377456649703,"['Carrer del Comerç, 36', '08003 Barcelona', 'Spain']",Museums
+97,86,Museu de Ciències Naturals,179.91527910400936,"['Passeig de Picasso, s/n', '08003 Barcelona', 'Spain']",Museums
+98,87,Fundació Vila Casas,165.94336902748046,"[""Carrer d'Ausiàs March, 20"", '08010 Barcelona', 'Spain']",Museums
+99,88,,,,[]
+100,89,,,,[]
+101,90,,,,[]
+102,91,,,,[]
+103,92,,,,[]
+104,93,,,,[]
+105,94,,,,[]
+106,95,Barri Gòtic,194.03776242562418,"['08002 Barcelona', 'Spain']",Local Flavor
+107,96,Camp Nou,177.86000914102064,"[""Carrer d'Arístides Maillol, 12"", '08028 Barcelona', 'Spain']",Stadiums & Arenas
+108,97,Fundació Vila Casas,209.15533428952227,"[""Carrer d'Ausiàs March, 20"", '08010 Barcelona', 'Spain']",Museums
+109,98,,,,[]
+110,99,Erotic Museum 69,35.495326372239724,"['La Rambla, 69', '08002 Barcelona', 'Spain']",Museums
+111,99,Museu de l'Eròtica de Barcelona,134.08017365180243,"['La Rambla,96', '08002 Barcelona', 'Spain']",Art Galleries
+112,99,La Virreina,210.16413900017443,"['La Rambla, 99', '08002 Barcelona', 'Spain']",Museums
+113,99,Antiga Sinagoga Major de Barcelona,244.32636490056714,"['Carrer de Marlet, 5', '08002 Barcelona', 'Spain']",Museums
+114,99,Centre d'interpretació del Call,251.88348401018868,"['Placeta de Manuel Ribé s/n', '08002 Barcelona', 'Spain']",Museums
+115,100,,,,[]
+116,101,,,,[]
+117,102,,,,[]
+118,103,,,,[]
+119,104,,,,[]
+120,105,,,,[]
+121,106,,,,[]
+122,107,,,,[]
+123,108,,,,[]
+124,109,,,,[]
+125,110,,,,[]
+126,111,,,,[]
+127,112,,,,[]
+128,113,,,,[]
+129,114,,,,[]
+130,115,,,,[]
+131,116,,,,[]
+132,117,,,,[]
+133,118,Casa Batlló,166.1587331248559,"['Passeig de Gràcia, 43', '08007 Barcelona', 'Spain']",Landmarks & Historical Buildings
+134,118,Museu del Modernisme de Barcelona,149.97449022404854,"['Carrer de Balmes, 48', '08007 Barcelona', 'Spain']",Museums
+135,118,Fundació Antoni Tàpies,151.80277060800717,"[""Carrer d'Aragó, 255"", '08007 Barcelona', 'Spain']",Museums
+136,118,Hi This Is Barcelona,1554.6254541427923,"['08002 Barcelona', 'Spain']",Food Tours
+137,118,Museu del Perfum,149.76428429994922,"['Passeig de Gràcia, 39', '08007 Barcelona', 'Spain']",Museums
+138,118,Fundación Mapfre - Casa Garriga Nogués,181.3588900810244,"['Carrer de la Diputació, 250', '08007 Barcelona', 'Spain']",Museums
+139,118,Illa de la Discòrdia,184.5942069884042,"['35-45 Passeig de Gràcia', '08007 Barcelona', 'Spain']",Landmarks & Historical Buildings
+140,119,Palau de la Música Catalana,51.21236377437422,"['Carrer del Palau de la Música, 4-6', '08003 Barcelona', 'Spain']",Performing Arts
+141,119,Explore Catalunya,44.34162165669974,"['Carrer del Palau de la Música, 1', '08003 Barcelona', 'Spain']",Wine Tours
+142,120,,,,[]
+143,121,,,,[]
+144,122,,,,[]
+145,123,,,,[]
+146,124,,,,[]
+147,125,,,,[]
+148,126,,,,[]
+149,127,Can Framis,102.79916137087413,"['Carrer de Roc Boronat, 116', '08018 Barcelona', 'Spain']",Museums
+150,128,,,,[]
+151,129,,,,[]
+152,130,El Gat de Botero,83.40525721003242,"['Rambla del Raval, s/n', '08001 Barcelona', 'Spain']",Landmarks & Historical Buildings
+153,131,,,,[]
+154,132,,,,[]
+155,133,,,,[]
+156,134,,,,[]
+157,135,,,,[]
+158,136,,,,[]
+159,137,,,,[]
+160,138,,,,[]
+161,139,,,,[]
+162,140,,,,[]
+163,141,,,,[]
+164,142,Museu de la Xocolata,96.88630897084124,"['Carrer del Comerç, 36', '08003 Barcelona', 'Spain']",Museums
+165,142,El Born Centre Cultural,245.87236627834037,"['Plaça Comercial, 12', '08003 Barcelona', 'Spain']",Museums
+166,142,Mercat del Born,194.7940896051284,"['Plaça Comercial, 1', '08003 Barcelona', 'Spain']",Cultural Center
+167,142,Museu de Ciències Naturals,138.28708253557699,"['Passeig de Picasso, s/n', '08003 Barcelona', 'Spain']",Museums
+168,142,La Puntual,59.78097221162729,"[""Carrer d'Allada Vermell, 15"", '08003 Barcelona', 'Spain']",Performing Arts
+169,142,Arxiu fotogràfic de Barcelona,18.832144671299638,"['Plaça de Pons i Clerch, 2', '08003 Barcelona', 'Spain']",Museums
+170,143,,,,[]
+171,144,,,,[]
+172,145,,,,[]
+173,146,,,,[]
+174,147,,,,[]
+175,148,,,,[]
+176,149,Museu d'Història de Catalunya,57.969855562930455,"['Plaça de Pau Vila, 3', '08039 Barcelona', 'Spain']",Museums
+177,150,,,,[]
+178,151,,,,[]
+179,152,,,,[]
+180,153,MACBA - Museu d'Art Contemporani de Barcelona,167.02065533088782,"['Plaça dels Àngels, 1', '08001 Barcelona', 'Spain']",Museums
+181,153,Museu de les Il·lusions,168.4149046720178,"['Carrer del Pintor Fortuny, 17', '08001 Barcelona', 'Spain']",Children's Museums
+182,153,Barri Gòtic,252.74510051311734,"['08002 Barcelona', 'Spain']",Local Flavor
+183,153,Museo de Arte Contemporáneo,240.10632467613655,"['Plaça dels Àngels, 5-6', '08001 Barcelona', 'Spain']",Museums
+184,154,,,,[]
+185,155,,,,[]
+186,156,Museo de la Musica,201.59532509331126,"['Carrer de Lepant, 150', '08013 Barcelona', 'Spain']",Museums
+187,157,,,,[]
+188,158,,,,[]
+189,159,Basílica de la Sagrada Família,127.84437249779644,"['Carrer de Mallorca, 401', '08013 Barcelona', 'Spain']",Landmarks & Historical Buildings
+190,160,,,,[]
+191,161,,,,[]
+192,162,,,,[]
+193,163,,,,[]
+194,164,,,,[]
+195,165,,,,[]
+196,166,,,,[]
+197,167,,,,[]
+198,168,,,,[]
+199,169,Casa de les Punxes,142.24180405466393,"['Avinguda Diagonal, 420', '08037 Barcelona', 'Spain']",Museums
+200,169,Palau Montaner,145.3207371454826,"['Carrer de Mallorca, 278.', '08037 Barcelona', 'Spain']",Museums
+201,170,,,,[]
+202,171,,,,[]
+203,172,El Born Centre Cultural,102.63540482112343,"['Plaça Comercial, 12', '08003 Barcelona', 'Spain']",Museums
+204,172,Mercat del Born,153.05031366105842,"['Plaça Comercial, 1', '08003 Barcelona', 'Spain']",Cultural Center
+205,173,,,,[]
+206,174,,,,[]
+207,175,Museu del Modernisme de Barcelona,156.21490530041623,"['Carrer de Balmes, 48', '08007 Barcelona', 'Spain']",Museums
+208,175,Museu del Perfum,186.15602681271938,"['Passeig de Gràcia, 39', '08007 Barcelona', 'Spain']",Museums
+209,175,Fundación Mapfre - Casa Garriga Nogués,88.59290650255772,"['Carrer de la Diputació, 250', '08007 Barcelona', 'Spain']",Museums
+210,175,Illa de la Discòrdia,176.3395546775321,"['35-45 Passeig de Gràcia', '08007 Barcelona', 'Spain']",Landmarks & Historical Buildings
+211,176,,,,[]
+212,177,,,,[]
+213,178,El Born Centre Cultural,200.2382778097895,"['Plaça Comercial, 12', '08003 Barcelona', 'Spain']",Museums
+214,179,,,,[]
+215,180,,,,[]
+216,181,,,,[]
+217,182,,,,[]
+218,183,,,,[]
+219,184,,,,[]
+220,185,,,,[]
+221,186,,,,[]
+222,187,,,,[]
+223,188,Museu Marítim de Barcelona,205.2285100802124,"['Avinguda de les Drassanes, s/n', '08001 Barcelona', 'Spain']",Museums
+224,188,Museu de Cera,21.38752093290269,"['Passatge de la Banca, 7', '08002 Barcelona', 'Spain']",Museums
+225,188,Quimet Sabaté,68.56637813943347,"['Plaça del Portal de la Pau, 4', '08002 Barcelona', 'Spain']",Museums
+226,188,Arts Santa Mònica,89.76587530319573,"['La Rambla, 7', '08002 Barcelona', 'Spain']",Art Galleries
+227,189,,,,[]
+228,190,,,,[]
+229,191,,,,[]
+230,192,Camp Nou,211.76568226881957,"[""Carrer d'Arístides Maillol, 12"", '08028 Barcelona', 'Spain']",Stadiums & Arenas
+231,192,Museu del Futbol Club Barcelona,226.60839267524014,"[""Carrer d'Arístides Maillol, s/n"", '08028 Barcelona', 'Spain']",Museums
+232,193,,,,[]
+233,194,,,,[]
+234,195,,,,[]
+235,196,Museu d'Història de Catalunya,199.5314545680406,"['Plaça de Pau Vila, 3', '08039 Barcelona', 'Spain']",Museums
+236,197,,,,[]
+237,198,,,,[]
+238,199,,,,[]
+239,200,,,,[]
+240,201,Catedral de Barcelona,242.34326651523847,"['Placita de la Seu, s/n', '08002 Barcelona', 'Spain']",Landmarks & Historical Buildings
+241,201,Museu de L'Erotica,156.9013110969652,"['Carrer de La Rambla, 96', '08002 Barcelona', 'Spain']",Museums
+242,201,Gaudí Exhibition Center,213.22095457673194,"['Pla de la Seu, 7', '08002 Barcelona', 'Spain']",Museums
+243,201,Spanish Trails,235.5943899545837,"[""Avinguda del Portal de l'Àngel, 42, 2A"", '08002 Barcelona', 'Spain']",Food Tours
+244,201,Museu Diocesà de Barcelona,206.2908349472661,"['Pla de la Seu, 7', '08002 Barcelona', 'Spain']",Museums
+245,201,Museo Marittimo,63.896814397888726,"['Barcelona', 'Spain']",Museums
+246,202,,,,[]
+247,203,,,,[]
+248,204,,,,[]
+249,205,,,,[]
+250,206,Museu Egipci,162.89215873371975,"['Carrer de València, 284', '08007 Barcelona', 'Spain']",Museums
+251,207,,,,[]
+252,208,,,,[]
+253,209,La Pedrera - Casa Milà,213.05738740095074,"['Paseo de Gracia, 92', '08008 Barcelona', 'Spain']",Museums
+254,210,Plaça d'Espanya,123.79577181981237,"[""Plaça d'Espanya"", '08015 Barcelona', 'Spain']",Landmarks & Historical Buildings
+255,211,Palau Robert,192.1626820342021,"['Passeig de Gràcia, 107', '08008 Barcelona', 'Spain']",Museums
+256,212,,,,[]
+257,213,,,,[]
+258,214,,,,[]
+259,215,,,,[]
+260,216,,,,[]
+261,217,,,,[]
+262,218,,,,[]
+263,219,,,,[]
+264,220,Casa de les Punxes,216.05641307645817,"['Avinguda Diagonal, 420', '08037 Barcelona', 'Spain']",Museums
+265,220,Palau Montaner,189.2053661121522,"['Carrer de Mallorca, 278.', '08037 Barcelona', 'Spain']",Museums
+266,221,,,,[]
+267,222,,,,[]
+268,223,,,,[]
+269,224,,,,[]
+270,225,,,,[]
+271,226,El Gat de Botero,69.23155298103762,"['Rambla del Raval, s/n', '08001 Barcelona', 'Spain']",Landmarks & Historical Buildings
+272,227,,,,[]
+273,228,,,,[]
+274,229,,,,[]
+275,230,,,,[]
+276,231,,,,[]
+277,232,,,,[]
+278,233,,,,[]
+279,234,,,,[]
+280,235,,,,[]
+281,236,,,,[]
+282,237,,,,[]
+283,238,,,,[]
+284,239,Museu Marítim de Barcelona,146.46423806857248,"['Avinguda de les Drassanes, s/n', '08001 Barcelona', 'Spain']",Museums
+285,239,Museu de Cera,188.28776319824087,"['Passatge de la Banca, 7', '08002 Barcelona', 'Spain']",Museums
+286,239,Arts Santa Mònica,100.93382561441778,"['La Rambla, 7', '08002 Barcelona', 'Spain']",Art Galleries
+287,240,,,,[]
+288,241,,,,[]
+289,242,,,,[]
+290,243,,,,[]
+291,244,La Pedrera - Casa Milà,60.981437220815764,"['Paseo de Gracia, 92', '08008 Barcelona', 'Spain']",Museums
+292,244,Palau Robert,197.69509360682713,"['Passeig de Gràcia, 107', '08008 Barcelona', 'Spain']",Museums
+293,245,,,,[]
+294,246,,,,[]
+295,247,,,,[]
+296,248,,,,[]
+297,249,Fundació Vila Casas,73.13302109119049,"[""Carrer d'Ausiàs March, 20"", '08010 Barcelona', 'Spain']",Museums
+298,250,,,,[]
+299,251,Erotic Museum 69,219.8216670255522,"['La Rambla, 69', '08002 Barcelona', 'Spain']",Museums
+300,251,Museu de les Il·lusions,167.03457307288758,"['Carrer del Pintor Fortuny, 17', '08001 Barcelona', 'Spain']",Children's Museums
+301,251,Museu de l'Eròtica de Barcelona,89.6188105689742,"['La Rambla,96', '08002 Barcelona', 'Spain']",Art Galleries
+302,251,La Virreina,20.658195138431502,"['La Rambla, 99', '08002 Barcelona', 'Spain']",Museums
+303,252,,,,[]
+304,253,,,,[]
+305,254,,,,[]
+306,255,,,,[]
+307,256,,,,[]
+308,257,,,,[]
+309,258,,,,[]
+310,259,Museu d'Història de Barcelona,189.3370987850371,"['Plaça del Rei, s/n', '08002 Barcelona', 'Spain']",Museums
+311,259,Catedral de Barcelona,200.30215811888536,"['Placita de la Seu, s/n', '08002 Barcelona', 'Spain']",Landmarks & Historical Buildings
+312,259,Gaudí Exhibition Center,148.50122245994277,"['Pla de la Seu, 7', '08002 Barcelona', 'Spain']",Museums
+313,259,Museu Frederic Marès,141.19690397130768,"['Plaça de Sant Iu, 5', '08002 Barcelona', 'Spain']",Museums
+314,259,Museu Diocesà de Barcelona,138.8008223103903,"['Pla de la Seu, 7', '08002 Barcelona', 'Spain']",Museums
+315,259,Explore Catalunya,282.7114746355782,"['Carrer del Palau de la Música, 1', '08003 Barcelona', 'Spain']",Wine Tours
+316,259,Capella de Santa Agata,191.9781015660308,"['Plaça del Rei, s/n', '08002 Barcelona', 'Spain']",Landmarks & Historical Buildings
+317,259,Palau Reial Major,159.86221107051793,"['s/n Plaça Rei', '08002 Barcelona', 'Spain']",Museums
+318,260,,,,[]
+319,261,,,,[]
+320,262,,,,[]
+321,263,,,,[]
+322,264,Museu de Cera,165.28592603220392,"['Passatge de la Banca, 7', '08002 Barcelona', 'Spain']",Museums
+323,264,Quimet Sabaté,119.7325684314495,"['Plaça del Portal de la Pau, 4', '08002 Barcelona', 'Spain']",Museums
+324,265,,,,[]
+325,266,,,,[]
+326,267,Plaça d'Espanya,126.91865913609159,"[""Plaça d'Espanya"", '08015 Barcelona', 'Spain']",Landmarks & Historical Buildings
+327,267,Venetian Towers,221.1337712936505,"['Plaça Espanya', 'Avinguda de la Reina María Christina', '08004 Barcelona', 'Spain']",Local Flavor
+328,268,Plaça d'Espanya,108.46707574015251,"[""Plaça d'Espanya"", '08015 Barcelona', 'Spain']",Landmarks & Historical Buildings
+329,269,,,,[]
+330,270,,,,[]
+331,271,,,,[]
+332,272,,,,[]
+333,273,,,,[]
+334,274,,,,[]
+335,275,,,,[]
+336,276,,,,[]
+337,277,,,,[]
+338,278,,,,[]
+339,279,,,,[]
+340,280,,,,[]
+341,281,,,,[]
+342,282,,,,[]
+343,283,,,,[]
+344,284,,,,[]
+345,285,Spanish Trails,212.37767865530247,"[""Avinguda del Portal de l'Àngel, 42, 2A"", '08002 Barcelona', 'Spain']",Food Tours
+346,286,,,,[]
+347,287,,,,[]
+348,288,,,,[]
+349,289,,,,[]
+350,290,Font Màgica de Montjuïc,252.38145195010947,"['Plaça de Carles Buïgas, 1', '08004 Barcelona', 'Spain']",Landmarks & Historical Buildings
+351,291,,,,[]
+352,292,,,,[]
+353,293,El Born Centre Cultural,116.8636570272927,"['Plaça Comercial, 12', '08003 Barcelona', 'Spain']",Museums
+354,293,Mercat del Born,169.58587178869368,"['Plaça Comercial, 1', '08003 Barcelona', 'Spain']",Cultural Center
+355,294,,,,[]
+356,295,,,,[]
+357,296,,,,[]
+358,297,Casa Vicens,185.81733032505713,"['Carrer de les Carolines, 20-26', '08012 Barcelona', 'Spain']",Landmarks & Historical Buildings
+359,298,,,,[]
+360,299,,,,[]
+361,300,,,,[]
+362,301,,,,[]
+363,302,,,,[]
+364,303,,,,[]
+365,304,,,,[]
+366,305,,,,[]
+367,306,,,,[]
+368,307,,,,[]
+369,308,,,,[]
+370,309,,,,[]
+371,310,,,,[]
+372,311,,,,[]
+373,312,,,,[]
+374,313,,,,[]
+375,314,,,,[]
+376,315,,,,[]
+377,316,,,,[]
+378,317,,,,[]
+379,318,,,,[]
+380,319,,,,[]
+381,320,,,,[]
+382,321,,,,[]
+383,322,,,,[]
+384,323,Museu de Cera,161.97442331465103,"['Passatge de la Banca, 7', '08002 Barcelona', 'Spain']",Museums
+385,323,Quimet Sabaté,115.32686676681534,"['Plaça del Portal de la Pau, 4', '08002 Barcelona', 'Spain']",Museums
+386,324,,,,[]
+387,325,,,,[]
+388,326,,,,[]
+389,327,Basílica de la Sagrada Família,145.69849347562064,"['Carrer de Mallorca, 401', '08013 Barcelona', 'Spain']",Landmarks & Historical Buildings
+390,328,,,,[]
+391,329,,,,[]
+392,330,,,,[]
+393,331,,,,[]
+394,332,Casa Batlló,198.11132241672865,"['Passeig de Gràcia, 43', '08007 Barcelona', 'Spain']",Landmarks & Historical Buildings
+395,332,Fundació Antoni Tàpies,165.12509131508455,"[""Carrer d'Aragó, 255"", '08007 Barcelona', 'Spain']",Museums
+396,332,Hi This Is Barcelona,1829.9734244649333,"['08002 Barcelona', 'Spain']",Food Tours
+397,332,Museu Egipci,135.3090493964565,"['Carrer de València, 284', '08007 Barcelona', 'Spain']",Museums
+398,332,Museu del Perfum,237.93513804701632,"['Passeig de Gràcia, 39', '08007 Barcelona', 'Spain']",Museums
+399,333,,,,[]
+400,334,Hash Marihuana Cáñamo & Hemp Museum,170.28360216598037,"['Carrer Ample, 35', '08002 Barcelona', 'Spain']",Museums
+401,335,,,,[]
+402,336,,,,[]
+403,337,,,,[]
+404,338,,,,[]
+405,339,,,,[]
+406,340,,,,[]
+407,341,,,,[]
+408,342,,,,[]
+409,343,,,,[]
+410,344,,,,[]
+411,345,,,,[]
+412,346,,,,[]
+413,347,,,,[]
+414,348,,,,[]
+415,349,,,,[]
+416,350,,,,[]
+417,351,,,,[]
+418,352,,,,[]
+419,353,,,,[]
+420,354,,,,[]
+421,355,,,,[]
+422,356,,,,[]
+423,357,,,,[]
+424,358,,,,[]
+425,359,,,,[]
+426,360,,,,[]
+427,361,,,,[]
+428,362,,,,[]
+429,363,,,,[]
+430,364,Museu Marítim de Barcelona,177.8654746551446,"['Avinguda de les Drassanes, s/n', '08001 Barcelona', 'Spain']",Museums
+431,364,Museu de Cera,97.63480415941692,"['Passatge de la Banca, 7', '08002 Barcelona', 'Spain']",Museums
+432,364,Arts Santa Mònica,21.196543838939533,"['La Rambla, 7', '08002 Barcelona', 'Spain']",Art Galleries
+433,364,Quimet Sabaté,137.1909222517529,"['Plaça del Portal de la Pau, 4', '08002 Barcelona', 'Spain']",Museums
+434,365,,,,[]
+435,366,Hi This Is Barcelona,171.50516329193042,"['08002 Barcelona', 'Spain']",Food Tours
+436,366,Museu de Cera,159.58912907080835,"['Passatge de la Banca, 7', '08002 Barcelona', 'Spain']",Museums
+437,366,Arts Santa Mònica,170.33159079663062,"['La Rambla, 7', '08002 Barcelona', 'Spain']",Art Galleries
+438,366,Quimet Sabaté,196.83630451616307,"['Plaça del Portal de la Pau, 4', '08002 Barcelona', 'Spain']",Museums
+439,367,,,,[]
+440,368,,,,[]
+441,369,,,,[]
+442,370,,,,[]
+443,371,Museu de la Xocolata,194.07054642207257,"['Carrer del Comerç, 36', '08003 Barcelona', 'Spain']",Museums
+444,371,La Puntual,174.86471606012606,"[""Carrer d'Allada Vermell, 15"", '08003 Barcelona', 'Spain']",Performing Arts
+445,372,,,,[]
+446,373,,,,[]
+447,374,,,,[]
+448,375,Museu del Futbol Club Barcelona,173.03449887717173,"[""Carrer d'Arístides Maillol, s/n"", '08028 Barcelona', 'Spain']",Museums
+449,376,,,,[]
+450,377,,,,[]
+451,378,,,,[]
+452,379,,,,[]
+453,380,Museu Blau - Museu de Ciències Naturals de Barcelona,64.06281956147157,"['Parc del Fòrum', 'Plaça de Leonardo da Vinci, 4-5', '08019 Barcelona', 'Spain']",Museums
+454,381,,,,[]
+455,382,,,,[]
+456,383,,,,[]
+457,384,,,,[]
+458,385,,,,[]
+459,386,,,,[]
+460,387,,,,[]
+461,388,,,,[]
+462,389,,,,[]
+463,390,,,,[]
+464,391,,,,[]
+465,392,,,,[]
+466,393,,,,[]
+467,394,,,,[]
+468,395,,,,[]
+469,396,,,,[]
+470,397,,,,[]
+471,398,,,,[]
+472,399,,,,[]
+473,400,,,,[]
+474,401,,,,[]
+475,402,Museu d'Història de Catalunya,268.4395514449111,"['Plaça de Pau Vila, 3', '08039 Barcelona', 'Spain']",Museums
+476,403,,,,[]
+477,404,Museu d'Història de Barcelona,160.49318133979796,"['Plaça del Rei, s/n', '08002 Barcelona', 'Spain']",Museums
+478,404,Catedral de Barcelona,127.72004967596703,"['Placita de la Seu, s/n', '08002 Barcelona', 'Spain']",Landmarks & Historical Buildings
+479,404,Gaudí Exhibition Center,72.49164510356054,"['Pla de la Seu, 7', '08002 Barcelona', 'Spain']",Museums
+480,404,Museu Frederic Marès,74.40922168122347,"['Plaça de Sant Iu, 5', '08002 Barcelona', 'Spain']",Museums
+481,404,Museu Diocesà de Barcelona,61.91083237036775,"['Pla de la Seu, 7', '08002 Barcelona', 'Spain']",Museums
+482,404,Museu Moto,271.16342843026933,"['Carrer de la Palla, 10', '08002 Barcelona', 'Spain']",Museums
+483,404,Temple d'August,190.95504964481322,"['Carrer del Paradís, 10', '08002 Barcelona', 'Spain']",Landmarks & Historical Buildings
+484,404,Capella de Santa Agata,159.18632780248663,"['Plaça del Rei, s/n', '08002 Barcelona', 'Spain']",Landmarks & Historical Buildings
+485,404,Palau Reial Major,127.68609460225011,"['s/n Plaça Rei', '08002 Barcelona', 'Spain']",Museums
+486,404,Museu del Calçat,216.5566377260364,"['Plaça de Sant Felip Neri, 5', '08002 Barcelona', 'Spain']",Museums
+487,405,,,,[]
+488,406,,,,[]
+489,407,,,,[]
+490,408,,,,[]
+491,409,Arc de Triomf,42.30439546083149,"['Passeig de Sant Joan, s/n', '08010 Barcelona', 'Spain']",Landmarks & Historical Buildings
+492,410,,,,[]
+493,411,,,,[]
+494,412,,,,[]
+495,413,,,,[]
+496,414,Museu Marítim de Barcelona,208.05969606946812,"['Avinguda de les Drassanes, s/n', '08001 Barcelona', 'Spain']",Museums
+497,414,Palais Guëll,148.94210577112844,"['Carrer De Nou Rambla', '08001 Barcelona', 'Spain']",Castles
+498,414,Arts Santa Mònica,150.11119711626142,"['La Rambla, 7', '08002 Barcelona', 'Spain']",Art Galleries
+499,415,,,,[]
+500,416,,,,[]
+501,417,,,,[]
+502,418,Arc de Triomf,40.777697975882404,"['Passeig de Sant Joan, s/n', '08010 Barcelona', 'Spain']",Landmarks & Historical Buildings
+503,419,,,,[]
+504,420,,,,[]
+505,421,Museo de la Musica,198.27050718106221,"['Carrer de Lepant, 150', '08013 Barcelona', 'Spain']",Museums
+506,421,Museu Tauri,203.48985683676898,"['Gran Via de les Corts Catalanes 749', '08013 Barcelona', 'Spain']",Museums
+507,422,,,,[]
+508,423,Museu del Modernisme de Barcelona,187.43342470909752,"['Carrer de Balmes, 48', '08007 Barcelona', 'Spain']",Museums
+509,423,Fundación Mapfre - Casa Garriga Nogués,249.45372594571327,"['Carrer de la Diputació, 250', '08007 Barcelona', 'Spain']",Museums
+510,424,,,,[]
+511,425,MACBA - Museu d'Art Contemporani de Barcelona,187.12461657185224,"['Plaça dels Àngels, 1', '08001 Barcelona', 'Spain']",Museums
+512,425,Museu de les Il·lusions,208.17517160014992,"['Carrer del Pintor Fortuny, 17', '08001 Barcelona', 'Spain']",Children's Museums
+513,425,Museo de Arte Contemporáneo,109.21614363067972,"['Plaça dels Àngels, 5-6', '08001 Barcelona', 'Spain']",Museums
+514,425,Plaça del MACBA,187.4544511468633,"['Plaça dels Àngels, 1', '08001 Barcelona', 'Spain']",Landmarks & Historical Buildings
+515,426,,,,[]
+516,427,,,,[]
+517,428,,,,[]
+518,429,,,,[]
+519,430,,,,[]
+520,431,,,,[]
+521,432,,,,[]
+522,433,Can Framis,86.54447989757311,"['Carrer de Roc Boronat, 116', '08018 Barcelona', 'Spain']",Museums
+523,434,,,,[]
+524,435,,,,[]
+525,436,,,,[]
+526,437,,,,[]
+527,438,,,,[]
+528,439,,,,[]
+529,440,,,,[]
+530,441,,,,[]
+531,442,,,,[]
+532,443,,,,[]
+533,444,,,,[]
+534,445,,,,[]
+535,446,,,,[]
+536,447,,,,[]
+537,448,,,,[]
+538,449,,,,[]
+539,450,,,,[]
+540,451,,,,[]
+541,452,,,,[]
+542,453,,,,[]
+543,454,,,,[]
+544,455,,,,[]
+545,456,,,,[]
+546,457,,,,[]
+547,458,,,,[]
+548,459,,,,[]
+549,460,,,,[]
+550,461,,,,[]
+551,462,Museu del Disseny,103.17599769044834,"['Plaça de les Glòries Catalanes, 37-38', '08018 Barcelona', 'Spain']",Museums
+552,463,,,,[]
+553,464,,,,[]
+554,465,,,,[]
+555,466,,,,[]
+556,467,,,,[]
+557,468,,,,[]
+558,469,,,,[]
+559,470,,,,[]
+560,471,,,,[]
+561,472,,,,[]
+562,473,,,,[]
+563,474,Barri Gòtic,110.54425536583818,"['08002 Barcelona', 'Spain']",Local Flavor
+564,474,Museu de L'Erotica,165.82315229690056,"['Carrer de La Rambla, 96', '08002 Barcelona', 'Spain']",Museums
+565,474,Spanish Trails,164.5517483586059,"[""Avinguda del Portal de l'Àngel, 42, 2A"", '08002 Barcelona', 'Spain']",Food Tours
+566,475,,,,[]
+567,476,Arc de Triomf,33.05793938757526,"['Passeig de Sant Joan, s/n', '08010 Barcelona', 'Spain']",Landmarks & Historical Buildings
+568,477,,,,[]
+569,478,Hi This Is Barcelona,185.59472772313563,"['08002 Barcelona', 'Spain']",Food Tours
+570,478,Antiga Sinagoga Major de Barcelona,155.31248614742546,"['Carrer de Marlet, 5', '08002 Barcelona', 'Spain']",Museums
+571,478,Centre d'interpretació del Call,190.64420148999662,"['Placeta de Manuel Ribé s/n', '08002 Barcelona', 'Spain']",Museums
+572,478,Temple d'August,188.66510106480882,"['Carrer del Paradís, 10', '08002 Barcelona', 'Spain']",Landmarks & Historical Buildings
+573,478,Museu del Calçat,254.58390381800984,"['Plaça de Sant Felip Neri, 5', '08002 Barcelona', 'Spain']",Museums
+574,479,Hash Marihuana Cáñamo & Hemp Museum,177.71626429137157,"['Carrer Ample, 35', '08002 Barcelona', 'Spain']",Museums
+575,480,,,,[]
+576,481,,,,[]
+577,482,,,,[]
+578,483,,,,[]
+579,484,,,,[]
+580,485,,,,[]
+581,486,,,,[]
+582,487,,,,[]
+583,488,,,,[]
+584,489,,,,[]
+585,490,MACBA - Museu d'Art Contemporani de Barcelona,85.05655584486355,"['Plaça dels Àngels, 1', '08001 Barcelona', 'Spain']",Museums
+586,490,Laie CCCB,127.9273098897976,"['Carrer de Montalegre, 5', '08001 Barcelona', 'Spain']",Museums
+587,490,Centre de Cultura Contemporanea,127.9273098897976,"['Calle Montalegre, 5', '08001 Barcelona', 'Spain']",Museums
+588,490,Museo de Arte Contemporáneo,31.651305800933496,"['Plaça dels Àngels, 5-6', '08001 Barcelona', 'Spain']",Museums
+589,490,Plaça del MACBA,67.76256325706365,"['Plaça dels Àngels, 1', '08001 Barcelona', 'Spain']",Landmarks & Historical Buildings
+590,491,,,,[]
+591,492,,,,[]
+592,493,,,,[]
+593,494,,,,[]
+594,495,,,,[]
+595,496,Arc de Triomf,37.37384397086246,"['Passeig de Sant Joan, s/n', '08010 Barcelona', 'Spain']",Landmarks & Historical Buildings
+596,497,Museu de la Xocolata,224.47238423820968,"['Carrer del Comerç, 36', '08003 Barcelona', 'Spain']",Museums
+597,498,,,,[]
+598,499,,,,[]
+599,500,,,,[]
+600,501,,,,[]
+601,502,,,,[]
+602,503,,,,[]
+603,504,,,,[]
+604,505,,,,[]
+605,506,,,,[]
